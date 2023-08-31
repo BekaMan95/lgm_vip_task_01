@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/lgm_vip_task_01/static/css/main.069464dc.css",
-    "main.js": "/github.io/lgm_vip_task_01/static/js/main.6ab2cf2f.js",
-    "static/js/787.50d6955c.chunk.js": "/github.io/lgm_vip_task_01/static/js/787.50d6955c.chunk.js",
-    "index.html": "/github.io/lgm_vip_task_01/index.html",
-    "main.069464dc.css.map": "/github.io/lgm_vip_task_01/static/css/main.069464dc.css.map",
-    "main.6ab2cf2f.js.map": "/github.io/lgm_vip_task_01/static/js/main.6ab2cf2f.js.map",
-    "787.50d6955c.chunk.js.map": "/github.io/lgm_vip_task_01/static/js/787.50d6955c.chunk.js.map"
+    "main.css": "/lgm_vip_task_01/static/css/main.069464dc.css",
+    "main.js": "/lgm_vip_task_01/static/js/main.9273a727.js",
+    "static/js/787.50d6955c.chunk.js": "/lgm_vip_task_01/static/js/787.50d6955c.chunk.js",
+    "index.html": "/lgm_vip_task_01/index.html",
+    "main.069464dc.css.map": "/lgm_vip_task_01/static/css/main.069464dc.css.map",
+    "main.9273a727.js.map": "/lgm_vip_task_01/static/js/main.9273a727.js.map",
+    "787.50d6955c.chunk.js.map": "/lgm_vip_task_01/static/js/787.50d6955c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.069464dc.css",
-    "static/js/main.6ab2cf2f.js"
+    "static/js/main.9273a727.js"
   ]
 }
